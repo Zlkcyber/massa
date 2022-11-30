@@ -67,7 +67,7 @@ cd massa/massa-client/
 ```
 Running client with this cmd
 ```
-cargo run --release -- -p Magnum234
+cargo run --release -- -p Password123
 ```
 
 # Create wallet
